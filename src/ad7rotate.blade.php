@@ -8,9 +8,9 @@
 	    <meta name="_token" content="{{ csrf_token() }}">
 	    <meta http-equiv="Expires" content="0"> 
 	<title>翻牌有奖</title>
-	<link href="{{ URL::asset('flipCardM/css/reset.css') }}" rel="stylesheet">
-    	<link href="{{ URL::asset('flipCardM/css/indexM.css') }}" rel="stylesheet">
-	<script type="text/javascript" src="{{ URL::asset('flipCardM/js/sta.js') }}"></script>
+	<link href="{{ URL::asset('flipCard/css/reset.css') }}" rel="stylesheet">
+    	<link href="{{ URL::asset('flipCard/css/indexM.css') }}" rel="stylesheet">
+	<script type="text/javascript" src="{{ URL::asset('flipCard/js/sta.js') }}"></script>
 </head>
 <body>
 	 <div class="mainContainer">
@@ -248,12 +248,12 @@
 		<p id="myNumber">{{$me->phone_number}}</p>
 	</div>
         	<script src="http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
-        	<script src="{{ URL::asset('flipCardM/js/web-storage-cache.min.js') }}"></script>
-        	<script src="{{ URL::asset('flipCardM/js/Tween.js') }}"></script>
-	<script src="{{ URL::asset('flipCardM/js/RequestAnimationFrame.js') }}"></script>
-	<script src="{{ URL::asset('flipCardM/js/giveValue.js') }}"></script>
-	<script src="{{ URL::asset('flipCardM/js/fapaiCreateTweensM.js') }}"></script>
-	<script src="{{ URL::asset('flipCardM/js/time.js') }}"></script>
+        	<script src="{{ URL::asset('flipCard/js/web-storage-cache.min.js') }}"></script>
+        	<script src="{{ URL::asset('flipCard/js/Tween.js') }}"></script>
+	<script src="{{ URL::asset('flipCard/js/RequestAnimationFrame.js') }}"></script>
+	<script src="{{ URL::asset('flipCard/js/giveValue.js') }}"></script>
+	<script src="{{ URL::asset('flipCard/js/fapaiCreateTweensM.js') }}"></script>
+	<script src="{{ URL::asset('flipCard/js/time.js') }}"></script>
 	<script>
 		//此处明天要做修改接收来自服务器的status判断
 		_hmt.push(['_trackEvent', "flipCard", "flipCardOpen"]);
