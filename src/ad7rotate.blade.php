@@ -148,7 +148,7 @@
 		    <div id="cash" class="rewardContainer">
 		    	<img src="http://zhcn.web.cdn.cootekservice.com/s/flipCard/images/kaijiang.png" alt="">
 		    	<div class="wordContinue"><p class="wordContinueOne">铁友火车票</p>
-		    	<p class="wordContinueTwo"><b>5元现金券</b><br/><span>仅限铁友新用户</span></p></div>
+		    	<p class="wordContinueTwo"><b>5元现金券</b><br/><span>限铁友新用户</span></p></div>
 		    </div>
 	
 			<div id="iknow" class="buttonContainer">
@@ -189,7 +189,7 @@
 		    <div id="cash" class="rewardContainer">
 		    	<img src="http://zhcn.web.cdn.cootekservice.com/s/flipCard/images/kaijiang.png" alt="">
 		    	<div class="wordContinue"><p class="wordContinueOne">流量银行</p>
-		    	<p class="wordContinueTwo"><b>50M联通流量</b><br/><span>仅限流量银行新用户</span></p></div>
+		    	<p class="wordContinueTwo"><b>50M联通流量</b><br/><span>限此app新用户</span></p></div>
 		    </div>
 	
 			<div id="iknow" class="buttonContainer">
@@ -209,7 +209,7 @@
 		    <div id="cash" class="rewardContainer">
 		    	<img src="http://zhcn.web.cdn.cootekservice.com/s/flipCard/images/kaijiang.png" alt="">
 		    	<div class="wordContinue"><p class="wordContinueOne">100元</p>
-		    	<p class="wordContinueTwo"><b>年检优惠券</b><br/><span>仅限车轮新用户</span></p></div>
+		    	<p class="wordContinueTwo"><b>年检优惠券</b><br/><span>限车轮新用户</span></p></div>
 		    </div>
 	
 			<div id="iknow" class="buttonContainer">
@@ -230,7 +230,7 @@
 		    <div id="cash" class="rewardContainer">
 		    	<img src="http://zhcn.web.cdn.cootekservice.com/s/flipCard/images/kaijiang.png" alt="">
 		    	<div class="wordContinue"><p class="wordContinueOne">51信用卡</p>
-		    	<p class="wordContinueTwo"><b>25元还款金</b><br/><span>仅限51信用卡新用户</span></p></div>
+		    	<p class="wordContinueTwo"><b>25元还款金</b><br/><span>限此app用户</span></p></div>
 		    </div>
 	
 			<div id="iknow" class="buttonContainer">
